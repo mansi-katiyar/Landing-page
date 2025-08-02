@@ -17,7 +17,7 @@ This project showcases a clean layout, eye-catching visuals, and an engaging cal
 
 ## 📁 Project Structure
 
-Landing-page/
+Landing-page
 
 ├── index.html    # Main HTML page
 
