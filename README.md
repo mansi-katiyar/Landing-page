@@ -1,11 +1,11 @@
-##🌐 Landing Page Website
+# 🌐 Landing Page Website
 
 A modern and responsive **Landing Page** designed using **HTML** and **CSS**.  
 This project showcases a clean layout, eye-catching visuals, and an engaging call-to-action—ideal for product or service promotion.
 
 ---
 
-#✨ Features
+## ✨ Features
 
 - 🖥️ Fully responsive design
 - 🎨 Modern and minimal UI
@@ -15,7 +15,7 @@ This project showcases a clean layout, eye-catching visuals, and an engaging cal
 
 ---
 
-#📁 Project Structure
+## 📁 Project Structure
 
 Landing-page/
 
