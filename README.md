@@ -19,8 +19,8 @@ This project showcases a clean layout, eye-catching visuals, and an engaging cal
 
 Landing-page/
 
-├── index.html # Main HTML page
+├── index.html    # Main HTML page
 
-├── style.css # Styling and layout
+├── style.css     # Styling and layout
 
-├── README.md # Project documentation
+├── README.md     # Project documentation
